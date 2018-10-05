@@ -1,5 +1,5 @@
 # CSC3210-Tech-Titans
 # Ava Shearer
 # Brian Sullivan
-# Joon Park
+# Sejun Park
 # Bandhan Patel 
